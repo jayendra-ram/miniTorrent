@@ -1,9 +1,5 @@
 req_block_size_int = 16384 
-# define a TorrentData object type
-# the purpose of this class is to store data corresponding to the
-# meta-data that's extracted from the .torrent file in an organized way
 class TorrentData:
-    # class constructor
     def __init__(
         self,
         output_filename,
