@@ -10,11 +10,12 @@ Built for learning. So far only supports downloading individual files.
 2. Seed
 3. Tests
 4. GUI
-5. Download more than one torrent at a time
-6. Use rarest piece algo for efficiency
-7. Pause and resume download
-8. Magnet link support
-9. Can search tracker lists??? qbit alternative
+5. environment support
+6. Download more than one torrent at a time
+7. Use rarest piece algo for efficiency
+8. Pause and resume download
+9. Magnet link support
+10. Can search tracker lists??? qbit alternative
 
 ## Refrences:
 1. https://github.com/gallexis/pytorrent
