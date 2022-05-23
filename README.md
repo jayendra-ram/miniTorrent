@@ -1,5 +1,13 @@
-# Python Bittorrent Client
+# minTorrent - minimal python bitTorrent client
 
-### By Ian White
+Built for learning. So far only supports downloading individual files.
 
-<span style="color:blue"> This is a basic bittorrent client written in python. It only downloads and cannot seed a file, and also lacks multi threaded downloading which is a major strength of bittorrent. This functionality could be easily implemented now that the basic handshake and message formats have all been figured out. </span>
+
+Refrences:
+
+1. https://github.com/gallexis/pytorrent
+2. https://github.com/IanCode/BitTorrent-Client-Python
+3. http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/
+4. https://wiki.theory.org/BitTorrentSpecification#Tracker_HTTP.2FHTTPS_Protocol
+5. https://github.com/eweast/BencodePy
+
