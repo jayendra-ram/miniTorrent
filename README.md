@@ -1,4 +1,4 @@
-# 🥐 minTorrent - a minimal python bitTorrent client
+# 🥐 miniTorrent - a minimal python bitTorrent client
 
 Built for learning. So far only supports downloading individual files.
 
