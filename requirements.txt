@@ -1,0 +1,3 @@
+bencodepy==0.9.5
+bitarray==1.2.2
+requests==2.27.1
