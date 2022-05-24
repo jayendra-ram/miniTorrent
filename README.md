@@ -1,5 +1,29 @@
-# Python Bittorrent Client
+# 🥐 miniTorrent - a minimal python bitTorrent client
 
-### By Ian White
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-<span style="color:blue"> This is a basic bittorrent client written in python. It only downloads and cannot seed a file, and also lacks multi threaded downloading which is a major strength of bittorrent. This functionality could be easily implemented now that the basic handshake and message formats have all been figured out. </span>
+Built for learning. So far only supports downloading individual files.
+
+## so far it has:
+1. ability to leech single file torrents 
+
+## it needs:
+0. Better argument handling
+1. Multifile torrent support
+2. Seed
+3. Tests
+4. GUI
+5. environment support
+6. Download more than one torrent at a time
+7. Use rarest piece algo for efficiency
+8. Pause and resume download
+9. Magnet link support
+10. Can search tracker lists??? qbit alternative
+
+## Refrences:
+1. https://github.com/gallexis/pytorrent
+2. https://github.com/IanCode/BitTorrent-Client-Python
+3. http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/
+4. https://wiki.theory.org/BitTorrentSpecification#Tracker_HTTP.2FHTTPS_Protocol
+5. https://github.com/eweast/BencodePy
+
