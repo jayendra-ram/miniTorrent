@@ -1,5 +1,7 @@
 # 🥐 miniTorrent - a minimal python bitTorrent client
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Built for learning. So far only supports downloading individual files.
 
 ## so far it has:
