@@ -8,6 +8,7 @@ Built for learning. So far only supports downloading individual files.
 1. ability to leech single file torrents 
 
 ## it needs:
+0. Better argument handling
 1. Multifile torrent support
 2. Seed
 3. Tests
