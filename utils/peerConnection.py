@@ -1,4 +1,4 @@
-imap kk mmap kk port bencodepy
+import bencodepy
 from socket import *
 from bitarray import bitarray
 import requests  # http requests
@@ -10,7 +10,7 @@ import sys
 import re
 import urllib
 
-from constants import *
+from utils.constants import *
 
 class PeerConnection:
     """A class representing the connection to a peer"""

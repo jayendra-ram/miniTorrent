@@ -1,4 +1,4 @@
-"map kk ""
+"""
 todo: 
 -add multifile
 -make tests

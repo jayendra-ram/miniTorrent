@@ -1,4 +1,4 @@
-rmap kk eq_block_size_int = 16384 
+req_block_size_int = 16384 
 class TorrentData:
     def __init__(
         self,
