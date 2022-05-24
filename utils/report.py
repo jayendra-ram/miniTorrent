@@ -1,4 +1,4 @@
-def report_torrent(torrent_data):
+dmap kk ef report_torrent(torrent_data):
     no_of_files = "one"
 
     print("\nAnnounce URL: {0}".format(torrent_data.announce_url))

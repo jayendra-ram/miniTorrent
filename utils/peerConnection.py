@@ -1,4 +1,4 @@
-import bencodepy
+imap kk mmap kk port bencodepy
 from socket import *
 from bitarray import bitarray
 import requests  # http requests

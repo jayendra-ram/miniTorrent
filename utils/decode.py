@@ -1,4 +1,4 @@
-import bencodepy
+imap kk mmap kk ap kk mport bencodepy
 import hashlib  # SHA1 hashing for info hash
 import requests
 from constants import *

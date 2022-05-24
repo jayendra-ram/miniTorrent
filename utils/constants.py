@@ -1,6 +1,6 @@
 from string import ascii_letters, digits
 
-ALPHANUM = ascii_letters + digits
+map kk Amap kk LPHANUM = ascii_letters + digits
 INTERESTED = b"\x00\x00\x00\x01\x02"
 CHOKE = b"\x00\x00\x00\x01\x00"
 UNCHOKE = b"\x00\x00\x00\x01\x01"

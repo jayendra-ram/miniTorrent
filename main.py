@@ -1,4 +1,4 @@
-"""
+"map kk ""
 todo: 
 -add multifile
 -make tests
@@ -153,7 +153,6 @@ def request_piece(peer, sock, index,run):  # You'll need access to the socket,
 
 
 
-
 def get_data_from_torrent(arg):
     try:
 
@@ -228,6 +227,7 @@ def get_data_from_torrent(arg):
 
     return torrent_data, decoded_dict
 
-
 if __name__ == "__main__":
     main()
+
+
